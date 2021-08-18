@@ -1,0 +1,49 @@
+.services-area{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(28, 4, 87);
+    margin-top: 100px;
+    color: white;
+}
+
+.services-header{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.services-header h1{
+    font-weight: 700;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.services-header p{
+    color: crimson;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.services-content{
+    display: flex;
+    padding: 0px 100px;
+    padding-top: 30px;
+}
+
+.services-card{
+    text-align: center;
+    border-radius: 6px;
+    margin: 10px;
+    width: 32%;
+    height: 300px;
+    background-color: #111;
+}
+
+.icon-style{
+    font-size: 50px;
+    color: crimson;
+    margin: 15px;
+}
+
+.service-cd{
+    margin: 10px;
+}

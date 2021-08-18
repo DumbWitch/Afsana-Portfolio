@@ -1,0 +1,99 @@
+.contact-area{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.contact-header{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.contact-header h1{
+    font-weight: 700;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.contact-header p{
+    color: crimson;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.contact-content{
+    display: flex;
+    padding: 0px 100px;
+    padding-top: 30px;
+    margin-bottom: 100px;
+}
+
+.contact-info{
+    width: 50%;
+}
+
+.contact-field h1{
+    font-size: 22px;
+    font-weight: 700;
+    padding: 10px 0px;
+}
+
+.contact-field input{
+    width: 250px;
+    height: 40px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 6px;
+    border: none;
+    background-color: gainsboro;
+}
+
+.contact-field .sub-field{
+    width: 520px;
+}
+
+.contact-field textarea{
+    width: 520px;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 6px;
+    border: none;
+    background-color: gainsboro;
+}
+
+.contact-field button{
+    margin-left: 10px;
+}
+
+.contact-des h1{
+    font-size: 27px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.contact-des p{
+    font-size: 18px;
+}
+
+.contact-name{
+    display: flex;
+}
+
+.address-style{
+    margin: 20px;
+    font-size: 15px;
+}
+
+.address-header{
+    color: grey;
+}
+
+.icon-style{
+    font-size: 40px;
+}
+
+
+
+
+
